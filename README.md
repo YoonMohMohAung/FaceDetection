@@ -1,4 +1,4 @@
-# FaceDetectionWithHaarCascades
+# Face Detection , Face Recognition & Emotion Detection 
 
 🧠 **Face & Eye Detection using OpenCV**
 
