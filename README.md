@@ -38,3 +38,9 @@ Install OpenCV via pip:
 
 ```bash
 pip install opencv-python
+
+## ⚙️ Data
+
+You can check this link for the emotion detection.
+
+- https://www.kaggle.com/datasets/msambare/fer2013
