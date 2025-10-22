@@ -2,6 +2,8 @@
 
 🧠 **Face & Eye Detection using OpenCV**
 
+This is the beginner friendly project just for the practice to understand more about face detection and use of openCV and WebCam.
+
 This project demonstrates **face and eye detection** using **Haar Cascade Classifiers** in OpenCV.  
 It includes two scripts:
 - `main.py` → Detects faces and eyes from an **image**
